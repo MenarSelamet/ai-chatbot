@@ -2,8 +2,6 @@
 
 A modern, responsive AI chat application built with React, TypeScript, and OpenAI's GPT-3.5 Turbo. The application provides a clean, intuitive interface for users to interact with an AI assistant.
 
-![AI Chat Assistant](https://images.unsplash.com/photo-1700403298209-00c6e77b365c?q=80&w=1200&auto=format&fit=crop)
-
 ## Features
 
 - 🤖 Real-time AI responses using OpenAI's GPT-3.5 Turbo
@@ -113,10 +111,6 @@ The following environment variables are required:
 
 - `VITE_OPENAI_API_KEY`: Your OpenAI API key
 
-## Deployment
-
-The application is deployed on Netlify and can be accessed at: [https://gleaming-maamoul-1ce17f.netlify.app](https://gleaming-maamoul-1ce17f.netlify.app)
-
 ## Development
 
 ### Available Scripts
@@ -132,18 +126,6 @@ The project uses ESLint for code linting with the following key configurations:
 - React Hooks rules
 - TypeScript recommended rules
 - React Refresh rules
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
